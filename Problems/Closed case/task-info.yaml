@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // Write your code here. Do not import any libraries
+    val myFile = File(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9719#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9719#comment">JetBrains
+    Academy</a></html>
+  time: Wed, 18 Nov 2020 10:43:06 UTC
+record: -1
